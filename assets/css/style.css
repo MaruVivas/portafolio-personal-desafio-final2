@@ -50,6 +50,15 @@
     color: #fff;
 }
 
+.contenedor-button-form button {
+    background-color: #38659c;
+}
+
+.contenedor-button-form button:hover {
+    background-color: #00306A
+}
+
+
 @media (max-width: 600px) {
     .contenedor-informacion p{
         width: 90%;
